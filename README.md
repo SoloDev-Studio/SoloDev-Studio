@@ -2,7 +2,7 @@
 <br />
 <p align="center">
     <a href="https://solodev-studio.github.io">
-        <img src="images\md_logo" alt="Logo" width="250" height="244">
+        <img src="md_logo.png" alt="Logo" width="250" height="244">
     </a>
 <h3 align="center"><a href="https://solodev-studio.github.io">soloDev Studio</a></h3>
     <p align="center">
