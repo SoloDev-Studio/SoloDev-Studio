@@ -104,7 +104,7 @@ ANY DAMAGES AN/OR NEFARIOUS USE-CASE SCENARIOS THAT MAY ARISE...
 
 ALL SOURCE CODE COVERED BY THE WTFSD LICENSE IS INTENDED FOR
 EMTERTAINMENT POURPOSES ONLY AND SHOULD BE READ AS IF IT WAS
-POORLY WRITTEN DIME-STORE SCIENCE FICTION.
+POORLY WRITTEN DIME-STORE SCIENCE FICTION..
 
 
 </details>
@@ -113,12 +113,11 @@ POORLY WRITTEN DIME-STORE SCIENCE FICTION.
 <!-- CONTACT -->
 ## Contact
 -----
-https://solodev.studio
-
-https://solodev-studio.github.io
-
 official.solodev@gmail.com
 
 solo-dev@gmx.com
 
+https://solodev.studio
+
+https://solodev-studio.github.io
 -----
