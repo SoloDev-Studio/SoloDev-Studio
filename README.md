@@ -1,12 +1,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-    <a href="https://solodev-studio.github.io">
-        <img src="banner.png" alt="Logo" width="1365" height="409">
-    </a>
-<h3 align="center"><a href="https://solodev-studio.github.io">soloDev Studio</a></h3>
+  <a align="center" href="https://solodev-studio.github.io"><img src="banner.png" alt="Logo" width="1365" height="409"></a></h3>
     <p align="center">
-        My collection of DroidScript projects
+      <h2 align="center">  My collection of Android and WebApp projects. Soon to grow as I learn 5 new languages over the course of gaining my Bachelors of Science in Information Technology</h2>
+---
+But,.. Wish me luck guys, Because I'll need it. I lost my home, my car, my gf, my laptop, my tablet AND my gaming rig all in the same week our classes started!..,  I'm deep in the weeds but I now have everything that I need to start working my ass off. Just gotta make a Dr app  for some adderall so I can work on cources five days a week and I'll be fine,,,</p>
 
 
 <!-- PROJECT SHIELDS -->
@@ -21,35 +20,39 @@
 <!-- ABOUT THE PROJECT -->
 ## About
 -----
-soloDev.Studio is a one man operation... Basically I'm just running a website that: 
+soloDev.Studio.xyz is a one man operation... Basically I'm just running a website that: 
 
 * Displays the software I've created using DroidScript.
 * Provides code and binary downloads
-* Promotes my future projects (gitDroid)
-* Begs for your money (donations)
-* Provides it's own Highly PERMISSIVE software license (WTFSD)
-* Details some of my own ideas on FOSS ethics
+* Promote my future project idea (gitDroid)
+* Beg people for money (donations)
+* Do the occasional paid project. Either an Androiod app or Website
+* Provide my own Highly PERMISSIVE software license (WTFSD)
+* and of course, lay out my own ideas on FOSS ethics (While using Linux of course)
 
   ![Static Badge](https://img.shields.io/badge/soloDev-Studio-%23edf04f?style=plastic&logo=javascript&logoSize=auto&link=https%3A%2F%2Fsolodev-studio.github.io)
 
 
-## Built Using DroidScript:
+## Built Using DroidScript: (and Essential Studio)
 -----
-DroidScript IDE is free (Closed Source, Susbscription style Pro version) Android application that allows you to code
-your own applications using JavaScript, HTML, CSS, NodeJS and most recently, Python.
-You can then compile your projects into a native Android Applications that can then
-be uploaded to the Google Play Store, F-Droid, etc.
+DroidScript is an awesome IDE on Android. But it is NOT free, nor Open Source. It vhas recently taken on a Saas model that I'm not a fan of at all..
+
+Of course it is being done by a single guy, and it's an awesome IDE that allows you to code a full fledged applications using JavaScript, HTML, CSS and NodeJS.  Then compile your projects into a native Android Applications! I just wish he would have provided a crippled version for free, a Pro version for around $25 or $30. Then provide an optional subscription service for professional support and about 5 GB of cloud storage.
 
 
 You can find it in the Google Play Store for free...
 
 ![Static Badge](https://img.shields.io/badge/Built_using-DroidScript_IDE-8EA229?style=flat-square&logo=android)
 
+## Essential Studio
+-----
+
+I just submited an application for a free liccense to a greate looking WYSIWYG IDE by Syncfusion designed use AngularJS, Angular, Bootstrap and VUE2 components as well as several backend frameworks that I can't remember at the moment. I certainlu have fewer than 5 employees and I *think* I made less than five millionm last year. So I'.m fairly certain with my chances. 
 
 <!-- CONTRIBUTING -->
 ## Contributing
------
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+----- 
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 **You will alays need an Android device with DroidScript IDE Installed**
 1. Download the SPK file from the project page.
