@@ -76,7 +76,7 @@ DO WHATEVER THE FUCK YOU WANT: SOLO-DEV Edition
 Version 2.08 - Jan 2024 (WTFSD)
 
 Copyright (C) 2004 Sam Hocevar <sam@hocevar.net> <wtfpl.net>
-CopyNone  (N) 2018 Eric Zollman <eric@solo-dev.studio> <wtfsd.solo-dev.studio>
+CopyNone  (N) 2018 Eric Zollman <solodev@null.net> <wtfsd.solodev.studio.xyz>
 
 Everyone is permitted to copy and/or distribute verbatim and/or modified
 copies of this license document alongside any software project or source code
@@ -89,25 +89,38 @@ or desires. If you modify this license in ANY way, you must also modify the name
 the license and add your "Copy Notice" to the top of the file alongside Sam Hocar and
 Eric Zollman to prevent any future confusion or legal discrepancy.
 
-DO WHATEVER THE FUCK YOU WANT: SOLO-DEV Edition HERBY GRANTS THE
-TERMS AND CONDITIONS TO USE, COPY, MODIFY, MEREGE, PUBLISH, FORK, COMPILE,
+DO WHATEVER THE FUCK YOU WANT: SOLO-DEV Edition HERBY GRANTS THE FOLLOWING
+TERMS AND CONDITIONS TO USE, COPY, MODIFY, MERGE, PUBLISH, FORK, COMPILE,
 DISTRIBUTE, SUBLICENSE, SELL, CONVERT AND/OR, ANY OTHER LOGICAL YET
 UNSPECIFIED ACTION INVOLVING ANY PORTION OF THE SOFTWARE AND/OR SOURCE
-CODE ENCAPSALATED BY THIS LICENSE AGREEMENT.
+CODE ENCAPSULATED BY THIS LICENSE AGREEMENT.
 
- 0. DO WHATEVER THE FUCK YOU WANT...
+ 1. DO WHATEVER THE FUCK YOU WANT...
 
- 1. This License is strictly NON-BINDING and should NOT be considered to be
-     a legal document of any kind.
+ 2. Any derivative software or source code that uses any portion{s} of the material
+     already covered by this License that could be described as a function, class, object, 
+     library, module or algorithm do to it's specific, novel or original nature may remain
+     covered by this License alone or this License may also be released under a new 
+     title leaving the contested material covered under both License or neither License... Or 
+     for reasons unknown the Developer may decide to use an entirely different License.
+     this is why we believe it best if everyone DO WHATEVER THE FUCK YOU WANT...
+
+ 3. This License is strictly NON-BINDING and should NOT be considered a legal document of any kind.
+     in which case you should DO WHATEVER THE FUCK YOU WANT...
+
+ 4. Lastly I also considered the possibility that if our software and or source code was extracting
+     millions of dollars for us to live on that our opinions and even our ethical standing may suddenly 
+     change led me to say yet again, DO WHATEVER THE FUCK YOU WANT...   
 
 ALL SOFTWARE AND/OR SOURCE CODE RELEASED UNDER THIS LICENSE IS
 PROVIDED WITHOUT WARRANTY OF ANY KIND. IN NO EVENT SHALL THE DEVELOPER
-OR ANY CONTRIBUTER OF SAID SOFTWARE BE HELD LIABLE IN ANY WAY FOR
+OR ANY CONTRIBUTOR OF SAID SOFTWARE BE HELD LIABLE IN ANY WAY FOR
 ANY DAMAGES AN/OR NEFARIOUS USE-CASE SCENARIOS THAT MAY ARISE...
 
 ALL SOURCE CODE COVERED BY THE WTFSD LICENSE IS INTENDED FOR
-EMTERTAINMENT POURPOSES ONLY AND SHOULD BE READ AS IF IT WAS
-POORLY WRITTEN DIME-STORE SCIENCE FICTION..
+ENTERTAINMENT PURPOSES ONLY AND SHOULD BE READ AS IF IT WAS
+POORLY WRITTEN DIME-STORE SCIENCE FICTION.
+
 
 
 </details>
